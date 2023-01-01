@@ -26,4 +26,6 @@ let img = new SimpleLightbox(".gallery a", {
   captionAttribute: "title",
   captionDelay: 250,
 });
+
+console.log(img);
 img.on("show.simplelightbox", function (e) {});
