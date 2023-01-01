@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/epsilon11101/goit-js-hw-08#readme",
   "dependencies": {
+    "-": "^0.0.1",
     "@vimeo/player": "^2.18.0",
     "lodash": "^4.17.21",
     "lodash.throttle": "^4.1.1",
-    "simplelightbox": "^2.11.0"
+    "simplelightbox": "^2.11.0",
+    "vercel": "^28.10.1"
   },
   "devDependencies": {
     "webpack": "^5.75.0",
